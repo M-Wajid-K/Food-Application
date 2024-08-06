@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bagel_fat_one</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/baloo_tammudu</item>
+        <item>@font/bevan</item>
+        <item>@font/irish_grover</item>
+        <item>@font/konkhmer_sleokchher</item>
+    </array>
+</resources>
